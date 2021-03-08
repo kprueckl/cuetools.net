@@ -2,7 +2,7 @@
 // 
 // CUE Tools
 // Copyright (C) 2006-2007  Moitah (moitah@yahoo.com)
-// Copyright (C) 2008-2020  Gregory S. Chudov (gchudov@gmail.com)
+// Copyright (C) 2008-2021  Gregory S. Chudov (gchudov@gmail.com)
 // 
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -609,7 +609,7 @@ namespace JDP
         {
             get
             {
-                return "CUETools 2.1.7";
+                return "CUETools 2.1.8";
             }
         }
 
